@@ -1,2 +1,15 @@
 ﻿  lab_2_1.cpp
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.h(17): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.h(35): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.h(83): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.cpp(42): warning C4715: matrix::getCol: значение возвращается не при всех путях выполнения
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.cpp(32): warning C4715: matrix::getRow: значение возвращается не при всех путях выполнения
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.cpp(70): warning C4715: matrix::operator(): значение возвращается не при всех путях выполнения
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.cpp(107): warning C4715: matrix::slice: значение возвращается не при всех путях выполнения
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.cpp(98): warning C4715: matrix::operator=: значение возвращается не при всех путях выполнения
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.cpp(115): warning C4715: matrix::slice: значение возвращается не при всех путях выполнения
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.cpp(123): warning C4715: matrix::slice: значение возвращается не при всех путях выполнения
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.cpp(154): warning C4715: matrix::t_slice::getRow: значение возвращается не при всех путях выполнения
+c:\users\виктория\source\repos\lab_2_1\lab_2_1\lab_2_1.cpp(164): warning C4715: matrix::t_slice::getCol: значение возвращается не при всех путях выполнения
   lab_2_1.vcxproj -> C:\Users\Виктория\source\repos\lab_2_1\Debug\lab_2_1.exe

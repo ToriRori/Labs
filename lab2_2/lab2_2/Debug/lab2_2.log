@@ -1,0 +1,11 @@
+﻿  lab2_2.cpp
+c:\users\виктория\source\repos\lab2_2\lab2_2\lab2_2.h(106): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  c:\users\виктория\source\repos\lab2_2\lab2_2\lab2_2.h(139): note: выполняется компиляция ссылки на экземпляр шаблон класс "t_list<T>::t_iter"
+  c:\users\виктория\source\repos\lab2_2\lab2_2\lab2_2.h(313): note: выполняется компиляция ссылки на экземпляр шаблон класс "t_list<T>"
+c:\users\виктория\source\repos\lab2_2\lab2_2\lab2_2.h(150): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\users\виктория\source\repos\lab2_2\lab2_2\lab2_2.h(156): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\users\виктория\source\repos\lab2_2\lab2_2\lab2_2.h(164): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\users\виктория\source\repos\lab2_2\lab2_2\lab2_2.h(172): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\users\виктория\source\repos\lab2_2\lab2_2\lab2_2.h(191): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\users\виктория\source\repos\lab2_2\lab2_2\lab2_2.h(206): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  lab2_2.vcxproj -> C:\Users\Виктория\source\repos\lab2_2\Debug\lab2_2.exe
