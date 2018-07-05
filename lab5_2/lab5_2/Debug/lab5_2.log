@@ -1,0 +1,26 @@
+﻿  lab5_2.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+c:\users\виктория\source\repos\lab5_2\lab5_2\lab5_2.cpp(61): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктория\source\repos\lab5_2\lab5_2\lab5_2.cpp(66): warning C4018: <: несоответствие типов со знаком и без знака
+c:\programming\boost_1_66_0\boost\polygon\voronoi.hpp(38): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+  c:\programming\boost_1_66_0\boost\polygon\voronoi.hpp(53): note: выполняется компиляция ссылки на экземпляр шаблон функции "unsigned int boost::polygon::insert<boost::polygon::point_data<double>,VB>(const Point &,VB *)"
+          with
+          [
+              VB=boost::polygon::default_voronoi_builder,
+              Point=boost::polygon::point_data<double>
+          ]
+  c:\programming\boost_1_66_0\boost\polygon\voronoi.hpp(103): note: выполняется компиляция ссылки на экземпляр шаблон функции "void boost::polygon::insert<PointIterator,boost::polygon::default_voronoi_builder>(const PointIterator,const PointIterator,VB *)"
+          with
+          [
+              PointIterator=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<point_type>>>,
+              VB=boost::polygon::default_voronoi_builder
+          ]
+  c:\users\виктория\source\repos\lab5_2\lab5_2\lab5_2.cpp(36): note: выполняется компиляция ссылки на экземпляр шаблон функции "void boost::polygon::construct_voronoi<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,boost::polygon::voronoi_diagram<double,boost::polygon::voronoi_diagram_traits<T>>>(const PointIterator,const PointIterator,VD *)"
+          with
+          [
+              _Ty=point_type,
+              T=double,
+              PointIterator=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<point_type>>>,
+              VD=boost::polygon::voronoi_diagram<double,boost::polygon::voronoi_diagram_traits<double>>
+          ]
+  lab5_2.vcxproj -> C:\Users\Виктория\source\repos\lab5_2\Debug\lab5_2.exe
